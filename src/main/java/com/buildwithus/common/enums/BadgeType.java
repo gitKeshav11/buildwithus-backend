@@ -1,0 +1,14 @@
+package com.buildwithus.common.enums;
+
+public enum BadgeType {
+    VERIFIED_DEVELOPER,
+    PROJECT_BUILDER,
+    OPEN_COLLABORATOR,
+    HACKATHON_READY,
+    COMMUNITY_RISING,
+    TOP_CONTRIBUTOR,
+    FIRST_PROJECT,
+    FIRST_COLLABORATION,
+    PROFILE_COMPLETE,
+    AI_EXPLORER
+}
